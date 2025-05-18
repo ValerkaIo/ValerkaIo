@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ValerkaIo
+- 👋 Hi, I’m Valery 
 - 👀 I’m interested in data science and finance
 - 🌱 I’m currently learning python for data analysis
 - ⚡ Fun fact: I'm from Moscow
